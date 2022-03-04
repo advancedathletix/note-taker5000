@@ -2,4 +2,4 @@
 This app will help me and other users keep track of notes 
 
 
-<img id="img"src="note-takerimg.jpg"
+<img src="note-takerimg.jpg">
