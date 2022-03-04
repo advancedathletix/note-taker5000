@@ -1,14 +1,23 @@
 {
-  "name": "note-taker",
+  "name": "note-taker5000",
   "version": "1.0.0",
-  "description": "",
+  "description": "This app will help me and other users keep track of notes",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Elijah walker",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advancedathletix/note-taker5000.git"
+  },
+  "bugs": {
+    "url": "https://github.com/advancedathletix/note-taker5000/issues"
+  },
+  "homepage": "https://github.com/advancedathletix/note-taker5000#readme"
 }
